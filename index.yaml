@@ -3,12 +3,12 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-10T22:14:00.023639+08:00"
+    created: "2023-10-10T22:24:59.59672+08:00"
     description: A Helm chart for Kubernetes
     digest: a6b8c590182ae6bad0f06049413a3fa833c00f7f9744ea2784e3550b68f6177e
     name: test
     type: application
     urls:
-    - https://github.com/huangquanwei-ll/helm-chart/test-0.1.0.tgz
+    - https://huangquanwei-ll.github.io/helm-chart/test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-10T22:14:00.023226+08:00"
+generated: "2023-10-10T22:24:59.596307+08:00"
