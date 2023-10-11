@@ -9,6 +9,6 @@ entries:
     name: test
     type: application
     urls:
-    - teest/helm-chart/test-0.1.0.tgz
+    - test/helm-chart/test-0.1.0.tgz
     version: 0.1.0
 generated: "2023-10-10T22:24:59.596307+08:00"
